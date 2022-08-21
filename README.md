@@ -1,4 +1,4 @@
-https://chateronline.nl/app
+https://chateronline.nl/
 Bookkeaper management system
 # Laravel
 # Bootstrap
